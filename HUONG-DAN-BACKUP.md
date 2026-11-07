@@ -1,8 +1,10 @@
-# Hướng dẫn sao lưu Razer Tray
+# Thông tin bản sao lưu Razer Tray
 
-- `razer-tray-vietnamese.exe`: bản thực thi đang sử dụng tại thời điểm sao lưu.
-- `ma-nguon-razer-tray.zip`: mã nguồn hiện tại; không gồm thư mục biên dịch, tệp Git hay cấu hình cá nhân.
-- SHA-256 của EXE: `3ad199efd187fab147299bfe4666c3d074c0a7696f2c0236fb3e263ff5957dcb`.
-- Bản gốc: https://github.com/sqmagellan/razer-ctl, commit `158ba283f4c7d2a5367b3b6cac95c0deaaee9642`.
-- Cấu hình cá nhân nằm tại `%APPDATA%\razer-tray\config\default-config.toml` và không được tải lên.
-- Giấy phép mã nguồn: MIT.
+Bản sao lưu ngày **07/11/2026** cho Razer Blade 15 Advanced 2020 (RZ09-03305). Xem [README](./README.md) để biết cách chạy, chỉnh curve GPU và biên dịch.
+
+- SHA-256 của `razer-tray-vietnamese.exe` là `36c5417adf859389daf20565edd5ec59aabb34b98614e5bacf8d71a13e4f4859`.
+- SHA-256 của `ma-nguon-razer-tray.zip` là `0dc0c28dccaae97bd0db824b057986bc044e4563d4035c18c8a2035f36be8c08`.
+
+File EXE có cùng SHA-256 với bản release được biên dịch từ mã nguồn đi kèm và bản đang dùng trên máy lúc sao lưu. Bản tự biên dịch trong môi trường khác có thể có SHA-256 khác.
+
+Mã nguồn giữ giấy phép MIT. Kho sao lưu chứa phần mềm và mã nguồn. Cấu hình cá nhân, curve đã lưu và nhật ký được lưu riêng trên máy.
