@@ -1,4 +1,4 @@
-# Razer Tray — bản tiếng Việt cho Razer Blade 15 Advanced 2020
+# Razer Tray, bản tiếng Việt cho Razer Blade 15 Advanced 2020
 
 Bản tùy chỉnh của razer-ctl cho **Razer Blade 15 Advanced 2020 (RZ09-03305, USB PID 0x0253)** chạy Windows 11. Bản sao lưu ngày **07/11/2026** gồm chương trình chạy và mã nguồn Rust tương ứng.
 
